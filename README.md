@@ -1,16 +1,93 @@
-## Hi there 👋
+# Hi, I'm Anurag
 
-<!--
-**Anurag-kashyap-888/Anurag-kashyap-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech student in Computational and Data Science at NITK, interested in Machine Learning, NLP, and Competitive Programming.
 
-Here are some ideas to get you started:
+Currently focused on building practical ML systems while strengthening problem-solving and algorithmic thinking through competitive programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Machine Learning
+* Natural Language Processing
+* Data Structures & Algorithms
+* Competitive Programming
+
+## Technical Skills
+
+### Languages
+
+* C++
+* Python
+* SQL
+
+### Machine Learning & Data Science
+
+* Scikit-learn
+* Natural Language Processing
+* Data Preprocessing
+* Feature Engineering
+* Regression Models
+
+### Development & Tools
+
+* Flask
+* Git
+* HTML/CSS
+
+### Computer Science Fundamentals
+
+* Data Structures
+* Object-Oriented Programming
+* Database Management Systems
+
+## Featured Projects
+
+### Automated Resume Screening System
+
+AI-powered resume screening system that matches candidate profiles with job descriptions using NLP techniques.
+
+**Key Features**
+
+* Resume parsing
+* Keyword extraction
+* Skill identification
+* Candidate scoring and ranking
+* Similarity-based matching
+
+### Bangalore House Price Prediction
+
+End-to-end machine learning pipeline for housing price prediction.
+
+**Key Features**
+
+* Data preprocessing
+* Feature engineering
+* Regression modeling
+* Model evaluation
+* Flask-based web application
+
+## Competitive Programming
+
+* LeetCode: [Username]
+* Codeforces: [Username]
+* CodeChef: [Username]
+
+## GitHub Statistics
+
+<!-- GitHub Stats Card -->
+
+<!-- Top Languages Card -->
+
+## Currently Learning
+
+* Machine Learning
+* Natural Language Processing
+* Advanced Data Structures and Algorithms
+
+## Repository Highlights
+
+Pinned repositories are focused on:
+
+* Machine Learning
+* NLP Applications
+* Data Science Projects
+* Competitive Programming Solutions
