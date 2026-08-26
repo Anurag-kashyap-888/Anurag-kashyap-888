@@ -1,93 +1,144 @@
 # Hi, I'm Anurag
 
-M.Tech student in Computational and Data Science at NITK, interested in Machine Learning, NLP, and Competitive Programming.
+M.Tech student in Computational and Data Science at NITK, interested in
+Machine Learning, NLP, Data Science, and Competitive Programming.
 
-Currently focused on building practical ML systems while strengthening problem-solving and algorithmic thinking through competitive programming.
+Currently focused on building practical machine learning projects while
+strengthening problem-solving and algorithmic thinking through competitive
+programming.
 
 ## Current Focus
 
-* Machine Learning
-* Natural Language Processing
-* Data Structures & Algorithms
-* Competitive Programming
+- Machine Learning & Data Science
+- Natural Language Processing
+- Data Structures & Algorithms
+- Competitive Programming
+- C++ and Linux Systems
 
 ## Technical Skills
 
 ### Languages
 
-* C++
-* Python
-* SQL
+- Python
+- C++
+- C
+- SQL
 
 ### Machine Learning & Data Science
 
-* Scikit-learn
-* Natural Language Processing
-* Data Preprocessing
-* Feature Engineering
-* Regression Models
+- NumPy
+- Pandas
+- Scikit-learn
+- XGBoost
+- Regression
+- Classification
+- Feature Engineering
+- Data Preprocessing
+- Model Evaluation
+- Cross-Validation
 
-### Development & Tools
+### Natural Language Processing
 
-* Flask
-* Git
-* HTML/CSS
+- BERT
+- Sentence-BERT (S-BERT)
+- Semantic Embeddings
+- Cosine Similarity
+- Text Preprocessing
+- Skill Extraction
 
 ### Computer Science Fundamentals
 
-* Data Structures
-* Object-Oriented Programming
-* Database Management Systems
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
+
+### Systems & Tools
+
+- Linux
+- `/proc` Filesystem
+- Git
+- GitHub
+- VS Code
 
 ## Featured Projects
 
-### Automated Resume Screening System
+### Automated Resume Screening & Skill Gap Analysis
 
-AI-powered resume screening system that matches candidate profiles with job descriptions using NLP techniques.
-
-**Key Features**
-
-* Resume parsing
-* Keyword extraction
-* Skill identification
-* Candidate scoring and ranking
-* Similarity-based matching
-
-### Bangalore House Price Prediction
-
-End-to-end machine learning pipeline for housing price prediction.
+NLP-based recruitment system that semantically matches resumes with job
+descriptions and identifies candidate skill gaps.
 
 **Key Features**
 
-* Data preprocessing
-* Feature engineering
-* Regression modeling
-* Model evaluation
-* Flask-based web application
+- Resume and job-description preprocessing
+- Technical skill extraction and normalization
+- BERT/S-BERT based semantic embeddings
+- Cosine similarity based candidate matching
+- Resume ranking against job requirements
+- Skill gap identification
+
+### Customer Churn Prediction
+
+Supervised machine learning project for predicting whether a customer is
+likely to churn.
+
+**Key Features**
+
+- Exploratory data analysis
+- Feature engineering
+- Numerical and categorical preprocessing
+- Handling class imbalance
+- Classification model comparison
+- Precision, recall, F1-score, and ROC-AUC evaluation
+
+### House Price Prediction
+
+End-to-end supervised regression pipeline for residential property price
+prediction.
+
+**Key Features**
+
+- Exploratory data analysis
+- Missing-value handling
+- Feature engineering
+- Numerical and categorical preprocessing
+- Regression model comparison
+- Cross-validation
+- MAE, RMSE, and R² based evaluation
+
+### PulseWatch
+
+Linux-based system monitoring application being developed in C++ for
+collecting and processing system-level performance metrics.
+
+**Current Work**
+
+- Linux system metric collection
+- `/proc` filesystem interaction
+- CPU utilization monitoring
+- Parsing `/proc/stat`
+- Modular monitoring architecture
 
 ## Competitive Programming
 
-* LeetCode: [Username]
-* Codeforces: [Username]
-* CodeChef: [Username]
-
-## GitHub Statistics
-
-<!-- GitHub Stats Card -->
-
-<!-- Top Languages Card -->
+- LeetCode: [Username]
+- Codeforces: [Username]
+- CodeChef: [Username]
 
 ## Currently Learning
 
-* Machine Learning
-* Natural Language Processing
-* Advanced Data Structures and Algorithms
+- Advanced Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- System Design
 
 ## Repository Highlights
 
-Pinned repositories are focused on:
+My repositories currently focus on:
 
-* Machine Learning
-* NLP Applications
-* Data Science Projects
-* Competitive Programming Solutions
+- Machine Learning & Data Science
+- NLP Applications
+- C++ and Linux Systems
+- Competitive Programming
+- Practical ML experimentation
